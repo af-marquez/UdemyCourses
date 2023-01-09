@@ -6,6 +6,6 @@ This repository is an archive of all exercises and projects i've done while goin
 
 # List of courses 
 
-### [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-2VrOKn6X_PDxOqN6oqoHXw&utm_medium=udemyads&utm_source=aff-campaign)
+### [Spring & Hibernate for Beginners (includes Spring Boot)](https://github.com/af-marquez/UdemyCourses/blob/main/spring-hibernate/README.md)
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/)
