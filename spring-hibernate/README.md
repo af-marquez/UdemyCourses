@@ -7,4 +7,4 @@
 ### [Practice Activity #3 - Inversion of Control with XML Configuration](https://github.com/af-marquez/UdemyCourses/tree/main/spring-hibernate/practice-activity-3)
 ### [Practice Activity #4 - Inversion of Control with XML Configuration](https://github.com/af-marquez/UdemyCourses/tree/main/spring-hibernate/practice-activity-4)
 ### [Practice Activity #5 - Inversion of Control with XML Configuration](https://github.com/af-marquez/UdemyCourses/tree/main/spring-hibernate/practice-activity-5)
-
+### [Practice Activity #6 - Inversion of Control with XML Configuration](https://github.com/af-marquez/UdemyCourses/tree/main/spring-hibernate/practice-activity-6)
