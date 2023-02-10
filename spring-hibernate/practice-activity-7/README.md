@@ -1,4 +1,4 @@
-### Practice Activity #7 - Inversion of Control and Dependency Injection with Java Code     
+## Practice Activity #7 - Inversion of Control and Dependency Injection with Java Code     
 
   Note: In this practice activity, do not use component scanning.
 
